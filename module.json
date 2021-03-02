@@ -1,0 +1,13 @@
+{
+    "name": "Laman",
+    "alias": "laman",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Laman\\Providers\\LamanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
