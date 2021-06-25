@@ -1,0 +1,15 @@
+{
+    "name": "Laman",
+    "alias": "laman",
+    "description": "Module Laman untuk E-Panel.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Laman\\Providers\\LamanServiceProvider"
+    ],
+    "aliases": {
+        "Laman": "Modules\\Laman\\Entities\\Laman"
+    },
+    "files": [],
+    "requires": []
+}
